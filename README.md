@@ -1,4 +1,4 @@
-# Machine-Learning-Final-Project-
+# Building Machine Learning Models
 
 In this project, I participated in a data science competition through Kaggle. The goal of this competition was to predict the probability that individuals will get the H1N1 and seasonal flu vaccine using a machine learning model. 
 
